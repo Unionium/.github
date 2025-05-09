@@ -18,8 +18,8 @@
 
 ## 🔥 Featured Projects  
 List of key repositories with descriptions:  
-- **[Project 1](https://github.com/unionium/unionium-msg)** – Our main product, decentralized messenger.  
-- **[Project 2](https://github.com/unionium/uni_protocol)** – Protocol of messegner Unionium.  
+- **[Unionium](https://github.com/unionium/unionium-msg)** – Our main product, decentralized messenger.  
+- **[Uni Protocol](https://github.com/unionium/uni_protocol)** – Protocol of messegner Unionium.  
 
 ## 🛠 Tech Stack  
 Core technologies and tools you use:  
