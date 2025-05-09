@@ -1,4 +1,4 @@
-![License](https://img.shields.io/github/license/your-org/.github?style=flat-square)
+![License](https://img.shields.io/github/license/unionium/.github?style=flat-square)
 ![Banner](https://github.com/Unionium/.github/blob/main/banner.png?raw=true)
 # Unionium 🚀  
 
