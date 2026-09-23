@@ -21,4 +21,4 @@ We develop tools, services, and approaches that replace the outdated or the inco
 ## Links
 
 - GitHub: [github.com/unionium](https://github.com/unionium)
-- Contact: [unionium.org/contact(https://unionium.org/contact)]
+- Contact: [unionium.org/contact](https://unionium.org/contact)
